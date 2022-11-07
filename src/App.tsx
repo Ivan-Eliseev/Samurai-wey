@@ -10,6 +10,9 @@ function App() {
             <Header/>
             <Navbar/>
             <Profile/>
+            <Header/>
+            <Navbar/>
+            <Profile/>
         </div>
     );
 }
